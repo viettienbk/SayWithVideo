@@ -9,6 +9,7 @@ import android.widget.LinearLayout;
 import datn.bkdn.com.saywithvideo.R;
 
 public class AddSoundActivity extends AppCompatActivity {
+    //cc
     private LinearLayout llRecord;
     private LinearLayout llImport;
     @Override
